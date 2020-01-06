@@ -1,4 +1,4 @@
-# Gatsby Starter: Prismic
+# Gatsby Starter: Prismic test
 
 A typography-heavy & light-themed Gatsby Starter which uses the Headless CMS [Prismic](https://prismic.io/).
 
